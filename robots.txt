@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://samarth0898.github.io/sitemap.xml
+Sitemap: https://samarth0898.github.io/sam-folio//sitemap.xml
