@@ -81,6 +81,7 @@ nav_order: 6
         Advanced Digital Signal Processing <span style="font-size: 10pt; font-style: italic;">taught by Richard Stern</span>
     </td>
 </tr>
+<tr>
     <td>
         <br>
     </td>
@@ -91,7 +92,7 @@ nav_order: 6
         Large Scale Multi Media Analysis <span style="font-size: 10pt; font-style: italic;">taught by Alex Hauptmann and Rita Singh</span>
     </td>
 </tr>
-</tr>
+<tr>
     <td>
         <br>
     </td>
@@ -102,7 +103,7 @@ nav_order: 6
         Transformers United V4 <span style="font-size: 10pt; font-style: italic;"> student run, supervised by Chris Manning</span>
     </td>
 </tr>
-</tr>
+<tr>
     <td>
         <br>
     </td>
