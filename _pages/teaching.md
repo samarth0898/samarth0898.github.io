@@ -20,7 +20,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">18-661&nbsp;&nbsp;</span> 
+        <span style="font-weight: bold; color:green">18 661&nbsp;&nbsp;</span> 
     </td>
     <td>
     </td>
@@ -33,7 +33,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">18-791&nbsp;&nbsp;</span> 
+        <span style="font-weight: bold; color:green">18 791&nbsp;&nbsp;</span> 
     </td>
     <td>
     </td>
@@ -46,7 +46,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">18-786 &nbsp;&nbsp; </span> 
+        <span style="font-weight: bold; color:green">18 786 &nbsp;&nbsp; </span> 
     </td>
     <td>
     </td>
@@ -59,7 +59,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">11-611 &nbsp;&nbsp; </span> 
+        <span style="font-weight: bold; color:green">11 611 &nbsp;&nbsp; </span> 
     </td>
     <td>
     </td>
@@ -72,7 +72,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">18-613&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:green">18 613&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -85,7 +85,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">18-792&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:green">18 792&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -97,7 +97,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:green">11-775&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:green">11 775&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -110,7 +110,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">CS-25* &nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:blue">CS 25* &nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -123,7 +123,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">CS-236* &nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:blue">CS 236* &nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -144,7 +144,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; ">18-090&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; ">18 090&nbsp;&nbsp;</span>
     </td>
     <td>
         Twisted Signals: Multimedia Processing for the Arts <span style="font-size: 10pt; font-style: italic;">taught by Jesse Stiles</span>
@@ -155,7 +155,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold;">57-847&nbsp;&nbsp;</span>
+        <span style="font-weight: bold;">57 847&nbsp;&nbsp;</span>
     </td>
     <td>
         Electronic and Computer Music <span style="font-size: 10pt; font-style: italic;">taught by Benjamin Opie</span>
@@ -166,7 +166,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold;">57-947 + 57-948&nbsp;&nbsp;</span>
+        <span style="font-weight: bold;">57 947 + 57 948&nbsp;&nbsp;</span>
     </td>
     <td>
         Sound Recording and Mastering <span style="font-size: 10pt; font-style: italic;">taught by Riccardo Schulz</span>
@@ -185,7 +185,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold;">18-791&nbsp;&nbsp;</span>
+        <span style="font-weight: bold;">18 791&nbsp;&nbsp;</span>
     </td>
     <td>
         Digital Signal Processing - Teaching Assistant <span style="font-size: 10pt; font-style: italic;">spring 2022, spring 2023</span>
@@ -196,7 +196,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold;">18-792&nbsp;&nbsp;</span>
+        <span style="font-weight: bold;">18 792&nbsp;&nbsp;</span>
     </td>
     <td>
         Advanced Digital Signal Processing - Teaching Assistant <span style="font-size: 10pt; font-style: italic;">fall 2022</span>
