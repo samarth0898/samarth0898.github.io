@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>18500 Von Karman Avenue</p>
-    <p>Suite 700/p>
+    <p>Suite 700</p>
     <p>Irvine, CA 92612</p>
 
 news: true # includes a list of news items
