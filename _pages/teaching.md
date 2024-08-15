@@ -23,8 +23,6 @@ nav_order: 6
         <span style="font-weight: bold; color:green">18 661&nbsp;&nbsp;</span> 
     </td>
     <td>
-    </td>
-    <td>
         Intro to Machine Learning<span style="font-size: 10pt; font-style: italic;">taught by Carlee Joe-Wong</span>
     </td>
 </tr>
@@ -34,8 +32,6 @@ nav_order: 6
     </td>
     <td>
         <span style="font-weight: bold; color:green">18 791&nbsp;&nbsp;</span> 
-    </td>
-    <td>
     </td>
     <td>
         Digital Signal Processing <span style="font-size: 10pt; font-style: italic;">taught by Richard Stern</span>
@@ -49,8 +45,6 @@ nav_order: 6
         <span style="font-weight: bold; color:green">18 786 &nbsp;&nbsp; </span> 
     </td>
     <td>
-    </td>
-    <td>
         Deep Learning <span style="font-size: 10pt; font-style: italic;">taught by Bhiksha Ramakrishna</span>
     </td>
 </tr>
@@ -60,8 +54,6 @@ nav_order: 6
     </td>
     <td>
         <span style="font-weight: bold; color:green">11 611 &nbsp;&nbsp; </span> 
-    </td>
-    <td>
     </td>
     <td>
         Natural Language Processing <span style="font-size: 10pt; font-style: italic;">taught by David Mortensen and Alan Black</span>
@@ -75,8 +67,6 @@ nav_order: 6
         <span style="font-weight: bold; color:green">18 613&nbsp;&nbsp;</span>
     </td>
     <td>
-    </td>
-    <td>
         Foundations of Computer Systems <span style="font-size: 10pt; font-style: italic;">taught by Greg Kesden and Swarun Kumar</span>
     </td>
 </tr>
@@ -88,8 +78,6 @@ nav_order: 6
         <span style="font-weight: bold; color:green">18 792&nbsp;&nbsp;</span>
     </td>
     <td>
-    </td>
-    <td>
         Advanced Digital Signal Processing <span style="font-size: 10pt; font-style: italic;">taught by Richard Stern</span>
     </td>
 </tr>
@@ -98,8 +86,6 @@ nav_order: 6
     </td>
     <td>
         <span style="font-weight: bold; color:green">11 775&nbsp;&nbsp;</span>
-    </td>
-    <td>
     </td>
     <td>
         Large Scale Multi Media Analysis <span style="font-size: 10pt; font-style: italic;">taught by Alex Hauptmann and Rita Singh</span>
@@ -113,8 +99,6 @@ nav_order: 6
         <span style="font-weight: bold; color:blue">CS 25* &nbsp;&nbsp;</span>
     </td>
     <td>
-    </td>
-    <td>
         Transformers United V4 <span style="font-size: 10pt; font-style: italic;"> student run, supervised by Chris Manning</span>
     </td>
 </tr>
@@ -124,8 +108,6 @@ nav_order: 6
     </td>
     <td>
         <span style="font-weight: bold; color:blue">CS 236* &nbsp;&nbsp;</span>
-    </td>
-    <td>
     </td>
     <td>
         Deep Generative Models <span style="font-size: 10pt; font-style: italic;">taught by Stefano Ermon</span>
