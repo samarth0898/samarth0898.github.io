@@ -97,7 +97,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">CS 25* &nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:blue">CS 25* [STANFORD] &nbsp;&nbsp;</span>
     </td>
     <td>
         Transformers United V4 <span style="font-size: 10pt; font-style: italic;"> student run, supervised by Chris Manning</span>
@@ -108,7 +108,7 @@ nav_order: 6
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">CS 236* &nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:blue">CS 236* [STANFORD] &nbsp;&nbsp;</span>
     </td>
     <td>
         Deep Generative Models <span style="font-size: 10pt; font-style: italic;">taught by Stefano Ermon</span>
